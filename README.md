@@ -1,30 +1,27 @@
 ### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href=" https://instagram.com/ayush_r_tripathi143 ">
+  <img align="left" alt="Ayush's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href=" https://twitter.com/ayushrtripathi ">
+  <img align="left" alt="Ayush Ranjan Tripathi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/ayushranjantripathi/">
+  <img align="left" alt="Ayush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ayushrtripati143.ayushrtripati143)
+![](https://visitor-badge.glitch.me/badge?page_id=ayushrtripathi143.ayushrtripathi143)
 
 <br />
 
-Hi, i'm [Ayush Ranjan Tripathi](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+Hi, i'm [Ayush Ranjan Tripathi], a passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 I am also an Python & Django Developer.
 
 
-  <img align="right" alt="GIF" src="https://github.com/ayushrtripati143/ayushrtripati143/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/ayushrtripathi143/ayushrtripathi143/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 any freelance work? do reach, [email](mailto:ayushrtripathi143@gmail.com)
+- 💬 ask me about anything, I am happy to help;
 
 **languages and tools:**  
 
@@ -54,7 +51,7 @@ Other        19 mins         ▒░░░░░░░░░░░░░░░░
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/ayushrtripati143" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/ayushrtripathi143" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -67,7 +64,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushrtripati143&show_icons=true&theme=gotham" alt="ayushrtripati143" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushrtripathi143&show_icons=true&theme=gotham" alt="ayushrtripathi143" />
 
 <h3>Projects</h3>
 <table>
@@ -82,7 +79,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ayushrtripati143/HealthX"><b>HealthX</b></a></td>
+      <td><a href="https://github.com/ayushrtripathi143/HealthX"><b>HealthX</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ayushrtripati143/HealthX?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ayushrtripati143/HealthX?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ayushrtripati143/HealthX?style=flat-square&labelColor=343b41"/></td>
