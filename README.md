@@ -23,7 +23,7 @@ I am a Python & Django Developer & also have knowledge in ReactJs.
   <img align="right" alt="GIF" src="https://github.com/ayushrtripathi143/ayushrtripathi143/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Contact me on,[email](mailto:ayushrtripathi143@gmail.com)
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help.
 
 **languages and tools:**  
 
