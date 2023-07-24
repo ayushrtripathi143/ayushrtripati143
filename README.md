@@ -3,10 +3,10 @@
   <img align="left" alt="Ayush's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href=" https://twitter.com/ayushrtripathi ">
-  <img align="left" alt="Ayush Ranjan Tripathi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ayush Ranjan Tripathi | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/ayushranjantripathi/">
-  <img align="left" alt="Ayush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ayush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" / />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ayushrtripathi143.ayushrtripathi143)
