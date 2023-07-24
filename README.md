@@ -9,7 +9,6 @@
   <img align="left" alt="Ayush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" / />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ayushrtripathi143.ayushrtripathi143)
 
 <br />
 
