@@ -12,9 +12,9 @@
 
 <br />
 
-Hi, i'm [Ayush Ranjan Tripathi], a passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+Hi, I'm [Ayush Ranjan Tripathi], a passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
-I am also an Python & Django Developer.
+I am also an Python & Django Developer & have knowledge in ReactJs.
 
 
   <img align="right" alt="GIF" src="https://github.com/ayushrtripathi143/ayushrtripathi143/blob/master/code.gif?raw=true" width="500" height="320" />
