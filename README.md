@@ -17,7 +17,7 @@
 
 Hi, I'm [Ayush Ranjan Tripathi(ART)], a passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
-I am also an Python & Django Developer & have knowledge in ReactJs.
+I am a Python & Django Developer & also have knowledge in ReactJs.
 
 
   <img align="right" alt="GIF" src="https://github.com/ayushrtripathi143/ayushrtripathi143/blob/master/code.gif?raw=true" width="500" height="320" />
