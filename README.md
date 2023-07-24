@@ -85,8 +85,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ayushrtripati143/HealthX?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ayushrtripati143/HealthX?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/ayushrtripathi143/VNPRproject"><b>VNPR Project</b></a></td>
+    <tr>
+      <td><a href="https://github.com/ayushrtripathi143/VNPRproject"><b>VNPRproject</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ayushrtripati143/VNPRproject?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ayushrtripati143/VNPRproject?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" alt="Issues" src="https://img.shields.io/github/issues/ayushrtripati143/VNPRproject?style=flat-square&labelColor=343b41"/></td>
