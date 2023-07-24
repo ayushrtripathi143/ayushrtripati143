@@ -1,4 +1,4 @@
-### hey there 
+### Hey there 
 <a href=" https://instagram.com/ayush_r_tripathi143 ">
   <img align="left" alt="Ayush's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
