@@ -86,18 +86,18 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ayushrtripati143/HealthX?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/ayushrtripathi143/VNPRproject"><b>VNPR Project</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ayushrtripati143/VNPRproject?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ayushrtripati143/VNPRproject?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" alt="Issues" src="https://img.shields.io/github/issues/ayushrtripati143/VNPRproject?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ayushrtripati143/VNPRproject?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/ayushrtripathi143/Portfolio"><b>Portfolio</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ayushrtripati143/Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ayushrtripati143/Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" alt="Issues" src="https://img.shields.io/github/issues/ayushrtripati143/Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ayushrtripati143/Portfolio?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
