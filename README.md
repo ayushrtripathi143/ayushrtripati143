@@ -9,7 +9,7 @@
   <img align="left" alt="Ayush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" / />
 </a>
 
-
+<img align="right" alt="Coding" width="400" src="https://store.outsourcingpundit.com/your-interview-schedule/">
 <br />
 
 Hi, I'm [Ayush Ranjan Tripathi], a passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
